@@ -1,0 +1,10 @@
+let gameTitle = "Assassin's Creed" 
+let gameDescription = ''
+let gameVersion = ''
+let mainPerson = ''
+let developerName = ''
+let programmingLanguage = ''
+let programmingLanguageVersion = ''
+let gameMapPlace = ''
+let developerWebsite = ''
+let interfaceLanguage = ''
